@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "520",
+        title: "22岁生日倒计时",
         href: "/aixin.html"
     }
 ]
