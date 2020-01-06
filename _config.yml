@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "time",
-        href: "/aixin.html"
+        title: "北京时间",
+        href: "/time.html"
     }
 ]
